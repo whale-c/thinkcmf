@@ -1,0 +1,35 @@
+canvas {
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  touch-action: none;
+  width: 100%;
+}
+.wrap{
+  position: fixed;
+  top:31%;
+  left:17%;
+  z-index: 999;
+}
+.login-wrap h1 {
+  font-size: 30px;
+  margin: 10px 0 20px;
+}
+.login-wrap {
+  background: #ffffff;
+  -webkit-animation: bounceIn 600ms linear;
+  -moz-animation: bounceIn 600ms linear;
+  -o-animation: bounceIn 600ms linear;
+  animation: bounceIn 600ms linear;
+  opacity: 0.9;
+  filter: alpha(opacity=90);
+  -moz-opacity: 0.9;
+  padding: 20px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  box-shadow: 0 0 10px #666;
+}
