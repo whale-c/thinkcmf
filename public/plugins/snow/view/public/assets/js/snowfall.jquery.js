@@ -111,7 +111,7 @@ if (!Date.now)
                 round : false,
                 shadow : false,
                 collection : false,
-                collectionHeight : 40,
+                collectionHeight : 400,
                 deviceorientation : false
             },
             options = $.extend(defaults, options),
@@ -299,8 +299,8 @@ if (!Date.now)
                                     element : $canvas.get(0), 
                                     x : bounds.left, 
                                     y : bounds.top-collectionHeight, 
-                                    width : bounds.width, 
-                                    height: collectionHeight, 
+                                    width : bounds.width,
+                                    height: collectionHeight,
                                     colData : collisionData
                                 });
                             }
