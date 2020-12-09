@@ -1,8 +1,6 @@
 ThinkCMF 5.1.6 让你更自由地飞
 ===============
 
-### 系列讲座
-https://www.thinkcmf.com/college.html
 
 ### ThinkCMF5.1主要特性
 * 更改框架协议为`MIT`,让你更自由地飞
@@ -34,11 +32,6 @@ http://www.kancloud.cn/thinkcmf/doc5_1
 
 1. GitHub:https://github.com/thinkcmf/thinkcmf 主要仓库
 2. 码云:https://gitee.com/thinkcmf/ThinkCMF 中国镜像
-
-### 演示仓库
-此仓库会放官方的一些演示应用，插件，模板，API等 
-1. https://github.com/thinkcmf/demos 主要仓库
-2. https://gitee.com/thinkcmf/demos 中国镜像
 
 ### 环境推荐
 > php7.1
@@ -116,23 +109,6 @@ thinkcmf  根目录
 ├─README.md               README 文件
 ├─think                   命令行入口文件
 ~~~
-
-### QQ群:
-`ThinkCMF 官方交流群`:316669417  
-   
-`ThinkCMF 高级交流群`:100828313 (付费)  
-高级群专属权益:  
-第一波:两个后台风格(ThinkCMF官网风格后台主题,蓝色风格后台主题)  
-第二波:ThinkCMF5完全开发手册离线版(PDF,EPUB,MOBI格式)  
-更多专属权益正在路上...
-
-`ThinkCMF 铲屎官交流群`:415136742 (生活娱乐，为有喵的猿人准备)
-
-### 话题专区
-http://www.thinkcmf.com/topic/index/index/cat/11.html
-
-### 反馈问题
-https://github.com/thinkcmf/thinkcmf/issues
 
 ### 更新日志
 #### 5.1.6
